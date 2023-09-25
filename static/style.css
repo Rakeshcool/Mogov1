@@ -1,0 +1,23 @@
+/* Custom CSS styles */
+* {
+  padding: 0%;
+  text-align: justify;
+}
+
+h1 {
+  text-align: center;
+  background-color: palevioletred;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+#usage-message {
+  color: red;
+  font-weight: bold;
+  font-size: x-large;
+}
